@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/MarcusViniciusCavalcanti/test-pizza-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MarcusViniciusCavalcanti/test-pizza-front.git
